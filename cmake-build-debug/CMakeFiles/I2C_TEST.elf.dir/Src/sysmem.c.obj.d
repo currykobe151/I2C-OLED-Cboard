@@ -1,0 +1,20 @@
+CMakeFiles/I2C_TEST.elf.dir/Src/sysmem.c.obj: \
+ D:\Electronic\Clion_Code\I2C_TEST\Src\sysmem.c \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\errno.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\errno.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\reent.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\_ansi.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\newlib.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\_newlib_version.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\config.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\machine\ieeefp.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\features.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\lib\gcc\arm-none-eabi\12.3.1\include\stddef.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\_types.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\machine\_types.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\machine\_default_types.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\lock.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\lib\gcc\arm-none-eabi\12.3.1\include\stdint.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\stdint.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\_intsup.h \
+ d:\tools\arm-eabi-gcc-12\sysgcc\arm-none-eabi\include\sys\_stdint.h
